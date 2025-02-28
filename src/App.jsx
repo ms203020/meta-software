@@ -75,7 +75,7 @@ function App() {
           <a className="logo" href="#Meta Software">Meta Software</a>
           <ul className="main-nav">
             <li><a href="#articles">articles</a></li>
-            <li><a href="#gallery">gallery</a></li>
+            <li><a href="#Control panel">Control panel</a></li>
             <li><a href="#features">features</a></li>
             <li className="other-links">
               <a href="#links">other links</a>
@@ -193,14 +193,14 @@ function App() {
           </div>
                     <div class="box">
             <i class="fas fa-photo-video fa-4x"></i>
-            <h3>Graphics</h3>
+            <h3>Electronic signature</h3>
             <div class="info">
               <a href="https://metasoftware.eg/Graphics_Services_Agreement/index.html">Let's get to work</a>
             </div>
           </div>
                     <div class="box">
             <i class="fas fa-photo-video fa-4x"></i>
-            <h3>Graphics</h3>
+            <h3>Electronic invoices</h3>
             <div class="info">
               <a href="https://metasoftware.eg/Graphics_Services_Agreement/index.html">Let's get to work</a>
             </div>
